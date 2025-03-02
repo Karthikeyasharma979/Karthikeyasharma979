@@ -14,10 +14,9 @@ I'm a passionate **B.Tech student at CVR College of Engineering (2022-2026)**, w
 - **Soft Skills:** Problem Solving, Time Management, Communication
 
 ## 🏆 Notable Projects
-- 🚀 **INFOGENIE** - AI-powered information retrieval system using Hugging Face Agents and custom API.
+- 🚀 **INFOGENIE** - Automates web searches and generates summaries using SmolAgent’s DuckDuckGo tool and Hugging Face’s BART model.
 - 🏋️‍♂️ **Health Calculator** - Gym management system tracking health metrics using Python, Java, and MySQL.
 - 📖 **Definition GPT** - AI tool for generating concise definitions using Python, LangChain, and Streamlit.
-- 🤖 **AI Research Assistant** - Automates web searches and generates summaries using SmolAgent’s DuckDuckGo tool and Hugging Face’s BART model.
 
 ## 📜 Certifications
 - 🏅 OOPS through Java - EBOX
